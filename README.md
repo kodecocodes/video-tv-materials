@@ -1,4 +1,4 @@
-# Course name: Materials
+# Table Views: Materials
 
 This repo contains all the downloadable materials and projects associated with **[Table Views](https://www.raywenderlich.com/10796666-table-views)** from [raywenderlich.com](https://www.raywenderlich.com).
 
