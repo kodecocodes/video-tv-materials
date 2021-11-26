@@ -8,4 +8,4 @@ Each edition has its own branch, named `versions/[VERSION]`. The default branch 
 
 | Branch                                                                            | Version | Release Date |
 | --------------------------------------------------------------------------------- |:-------:|:------------:|
-| [versions/5.1](https://github.com/raywenderlich/video-tv-materials/tree/versions/5.1) | 5.1     | YYYY-MM-DD   |
+| [versions/5.1](https://github.com/raywenderlich/video-tv-materials/tree/versions/5.1) | 5.1     | 2020-09-01   |
